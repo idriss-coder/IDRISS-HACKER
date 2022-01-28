@@ -1,7 +1,6 @@
 ## IDRISS-HACKER
 Je m'appelle `IDRISS-HACKER` developpeur et programmeur web fullstack.
-### Mes languages de programmations
-Example
+<h4> Mes languages de programmations </h4>
 <ul>
   <li>C/C++</li>
  <li>Pyhon</li>
@@ -10,7 +9,7 @@ Example
  <li>Php</li>
 <li>kotlin</li>
 </ul>
- ### Mes technos
+  <h4> Mes technos </h4>
 <ul>
 <li>ReactJS</li>
 <li>Flutter</li>
