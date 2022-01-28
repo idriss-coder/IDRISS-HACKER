@@ -9,8 +9,8 @@ Example
  <li>Java</li>
  <li>Php</li>
 <li>kotlin</li>
- </ul>
-### Mes technos
+</ul>
+ ### Mes technos
 <ul>
 <li>ReactJS</li>
 <li>Flutter</li>
